@@ -1,6 +1,8 @@
 {
     "name": "aperture-science-theme",
     "displayName": "aperture-science-theme",
+    "repository": "https://github.com/jgreenlee24/aperture-science-theme",
+    "publisher": "savagesqwerl",
     "description": "Color theme based on the Aperture Science color palette.",
     "version": "0.0.1",
     "engines": {

@@ -1,13 +1,22 @@
-# README
-## This is the README for your extension "aperture-science-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<h1 align="center">
+  Aperture Science Theme
+</h1>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Installation
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Aperture Science Theme`.
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor
+5. Code > Preferences > Color Theme > Aperture Science Theme
+
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
+- [Open VSX Registry](https://open-vsx.org/extension/Endormi/2077-theme)
+
+## Credits
+
+Inspired by [endormi's](https://github.com/endormi) [Cyberpunk 2077](https://github.com/endormi/vscode-2077-theme) theme and the Monokai Charcoal high contrast theme available [here](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast).
+
+If any issues occur or you have ideas for new improvements, please open up a new [issue](https://github.com/jgreenlee24/aperture-science-theme/issues). I also welcome Pull Requests.
 
 **Enjoy!**
