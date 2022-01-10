@@ -1,0 +1,21 @@
+{
+    "name": "aperture-science-theme",
+    "displayName": "aperture-science-theme",
+    "description": "Color theme based on the Aperture Science color palette.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aperture Science Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Aperture Science Theme-color-theme.json"
+            }
+        ]
+    }
+}
