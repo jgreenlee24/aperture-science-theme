@@ -10,8 +10,7 @@
 4. Click **Reload** to reload your editor
 5. Code > Preferences > Color Theme > Aperture Science Theme
 
-- [Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
-- [Open VSX Registry](https://open-vsx.org/extension/Endormi/2077-theme)
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=savagesqwerl.aperture-science-theme)
 
 ## Credits
 
